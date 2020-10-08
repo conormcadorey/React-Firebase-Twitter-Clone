@@ -1,6 +1,6 @@
 # Twitter-style Social Media Application 
 
-Full stack project built with Javascript, using Google Firebase for back-end services and React for front-end services. 
+Full stack project built with Javascript, using Google Firebase for back-end services and React for front-end design. 
 
 Cloud Functions deployed using Google Firebase. Firebase allows for realtime database interactions, and also provides a useful library for services such as user authentication, building notifications and image/file storage. 
 
